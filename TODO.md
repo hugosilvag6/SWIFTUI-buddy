@@ -1,0 +1,2 @@
+- implementar circulos na splash
+- transofmar showError em showAlert, que recebe error e string. Caso de error titulo será error, se não será "Sucesso". Deve receber também uma action. botão cancel dá hideAlert, e o outro botão executa a action
